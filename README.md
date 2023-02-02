@@ -1,2 +1,1 @@
-# algotithm
 algorithm train
