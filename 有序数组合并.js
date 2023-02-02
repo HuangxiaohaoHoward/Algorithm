@@ -11,7 +11,7 @@ function mergeSortArray(a, b) {
             bIdx += 1;
             break
         } else if (bIdx >= b.length && aIdx < a.length) {
-            resultArr.push(a[bIdx])
+            resultArr.push(a[aIdx])
             aIdx += 1;
             break
         }
